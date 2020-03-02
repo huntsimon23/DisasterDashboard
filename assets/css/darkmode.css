@@ -1,0 +1,156 @@
+/* body{
+    overflow: hidden;
+} */
+
+.nav-link {
+    margin: 3px;
+}
+
+.dropdown-toggle{
+    margin: 3px;
+}
+
+#search-param {
+    margin: 3px;
+}
+
+.btn-outline-success {
+    margin: 3px;
+}
+
+/* div {
+    border-style: dashed;
+    border-color: red;
+    border-width: 1px;
+} */
+
+.donate-image-rc {
+    height: auto;
+    /* width: 100%; */
+    margin: 3px;
+    padding: 15px;
+}
+
+.donate-image-sp {
+    height: 100px;
+    width:  241px;
+    margin: 3px;
+    padding: 15px;
+}
+
+body {
+    background-color:black;
+}
+
+.container {
+    background-color: #181818;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+nav {
+    float: right;
+}
+
+#title-text {
+    color: white;
+    text-align: center;
+}
+
+#title-bkg {
+    background-color: #444444;
+    padding: 10px 0px 5px;
+}
+
+/* #trending-holder {
+    /* border-right: 2px dotted gray; 
+} */ 
+
+/* footer {
+    border-top: 5px solid #444444;
+} */
+
+/* footer>.row>.col-4 {
+    padding: 10px;
+} */
+
+#mapsample {
+    height: auto;
+    width: 100%;
+}
+
+#youtube {
+    float: center;
+    /* position: absolute;
+    top: 15%;
+    height: 300px;
+    width: 500px; */
+}
+
+#trending{
+    /* height: 350px; */
+    /* max-height: 40%; */
+    overflow: scroll;
+}
+
+.news{
+    height: 40%;
+    overflow: scroll;
+}
+
+#map {
+    height: auto;  /* The height is 400 pixels */
+    width: 100%;  /* The width is the width of the web page */
+    padding: 15px;
+    overflow: scroll;
+   }
+
+.title-subtext {
+    text-align: center;
+    color: white;
+}
+
+#infographic {
+    width: 100%;
+    height: 200px;
+    float: center;
+    padding: 15px;
+}
+
+#getinvolved {
+    text-align: center;
+    margin-left:calc(100% - 60%);
+    color: white;
+    padding: 3px;
+}
+
+#trending-text {
+    text-align: center;
+    margin: 5px;
+}
+
+#donate-bkg {
+    background-color: #444444;
+}
+
+#footer-text {
+    text-align: center;
+    padding: 10px;
+}
+
+.cardimage{
+    height: 50px;
+    width: 50px
+}
+hr{
+    border-color: white;
+}
+
+.card{
+    background-color: #444444;
+
+}
+
+.navbar{
+    background-color: #181818;
+}
